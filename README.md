@@ -26,7 +26,7 @@ I’m always up for building something new, improving what already exists, or di
 -->
 ---
 
-### 📲 Connect with Me:
+### 🌐 Socials:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehulvermaw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-verma-b7a333246/)
