@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there! 👋😄</h1>
+<h1 align="left">Hey there! 👋😄</h1>
 
 ---
 
@@ -9,12 +9,14 @@ I’m Mehul Verma, a software developer with a passion for building practical, u
 I thrive in environments where I can learn fast, take ownership, and write clean, maintainable code that solves real problems.
 I’m always up for building something new, improving what already exists, or diving into a challenge that makes me think harder. Let’s build something meaningful.
 
+<!--
 - 🔭 Currently working on: Invoice generator app & AI agent experiments  
 - 🌱 Currently learning: React ecosystem, Node.js, and backend integration  
 - 💡 Interests: Automations, clean UI, productivity hacks  
 - 🎯 Goal: Build portfolio-worthy apps & contribute to open source  
 
 ---
+-->
 <!--
 ### ⚡ Challenges I’m Taking On:
 - 🧠 Deep diving into full-stack projects
@@ -26,7 +28,8 @@ I’m always up for building something new, improving what already exists, or di
 
 ### 📲 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/mehul-verma-b7a333246/))  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehulvermaw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-verma-b7a333246/)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://your-portfolio-link.com)  -->
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/yourusername](https://leetcode.com/u/Mehul001/))  
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
