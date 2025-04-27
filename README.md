@@ -79,7 +79,7 @@ I’m always up for building something new, improving what already exists, or di
 
 ---
 
-### Portfolio:
+### 👤 Me:
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://mehul-verma.vercel.app/) 
 <!--
 ### 📊 GitHub Stats:
