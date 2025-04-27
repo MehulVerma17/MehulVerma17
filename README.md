@@ -28,12 +28,11 @@ I’m always up for building something new, improving what already exists, or di
 
 ### 🌐 Socials:
 
--[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehulvermaw@gmail.com)
--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-verma-b7a333246/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehulvermaw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-verma-b7a333246/)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://your-portfolio-link.com)  -->
--[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/yourusername](https://leetcode.com/u/Mehul001/))  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/yourusername](https://leetcode.com/u/Mehul001/))  
 <!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
-- 🗂️ [Portfolio Website]([https://github.com/yourusername/portfolio](https://mehul-verma.vercel.app/)])
 
 ---
 
@@ -79,6 +78,9 @@ I’m always up for building something new, improving what already exists, or di
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
+
+### Portfolio:
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://mehul-verma.vercel.app/) 
 <!--
 ### 📊 GitHub Stats:
 
