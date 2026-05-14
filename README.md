@@ -99,7 +99,7 @@ I work across the stack: React Native and React on the frontend, Node.js and Exp
 ### 📊 GitHub
 
 ![Followers](https://img.shields.io/github/followers/MehulVerma17?style=flat-square&logo=github&logoColor=white&color=FFD400&labelColor=0A0A0F)
-![Stars](https://img.shields.io/github/stars/MehulVerma17?style=flat-square&logo=github&logoColor=white&color=FFD400&labelColor=0A0A0F)
+<!-- ![Stars](https://img.shields.io/github/stars/MehulVerma17?style=flat-square&logo=github&logoColor=white&color=FFD400&labelColor=0A0A0F) -->
 ![Profile views](https://komarev.com/ghpvc/?username=MehulVerma17&style=flat-square&color=FFD400&labelColor=0A0A0F)
 
 [![Streak](https://streak-stats.demolab.com?user=MehulVerma17&theme=dark&hide_border=true&background=0A0A0F&stroke=FFD400&ring=FFD400&fire=FFD400&currStreakLabel=FFD400)](https://git.io/streak-stats)
