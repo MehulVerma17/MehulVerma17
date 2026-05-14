@@ -4,7 +4,7 @@
 
 ### 💬 About Me
 
-I'm **Mehul Verma**, a **Full-Stack Developer** who builds and ships production mobile apps end-to-end. I've independently designed, built, and deployed three production apps — including **JelloChat (500k+ downloads)** and **Cheliya (10k+ downloads)** — owning the architecture across frontend, backend, DevOps, analytics, and monetization.
+I'm **Mehul Verma**, a **Full-Stack Developer** who builds and ships production mobile apps end-to-end. I've independently designed, built, and deployed three production apps including **JelloChat (500k+ downloads)** and **Cheliya (10k+ downloads)** owning the architecture across frontend, backend, DevOps, analytics, and monetization.
 
 I work across the stack: React Native and React on the frontend, Node.js and Express on the backend, with Docker, CapRover, Coolify, and Vercel handling deployment. I focus on real-time systems, AI/LLM integrations, and products that scale.
 
@@ -96,10 +96,13 @@ I work across the stack: React Native and React on the frontend, Node.js and Exp
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
-![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehulVerma17&show_icons=true&bg_color=0A0A0F&title_color=FFD400&icon_color=FFD400&text_color=F5F5F7&border_color=1F1F2E&hide_border=false)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehulVerma17&layout=compact&bg_color=0A0A0F&title_color=FFD400&text_color=F5F5F7&border_color=1F1F2E&hide_border=false)
+![Followers](https://img.shields.io/github/followers/MehulVerma17?style=flat-square&logo=github&logoColor=white&color=FFD400&labelColor=0A0A0F)
+![Stars](https://img.shields.io/github/stars/MehulVerma17?style=flat-square&logo=github&logoColor=white&color=FFD400&labelColor=0A0A0F)
+![Profile views](https://komarev.com/ghpvc/?username=MehulVerma17&style=flat-square&color=FFD400&labelColor=0A0A0F)
+
+[![Streak](https://streak-stats.demolab.com?user=MehulVerma17&theme=dark&hide_border=true&background=0A0A0F&stroke=FFD400&ring=FFD400&fire=FFD400&currStreakLabel=FFD400)](https://git.io/streak-stats)
 
 ---
 
