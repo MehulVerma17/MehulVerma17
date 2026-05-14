@@ -1,111 +1,112 @@
-<!-- README.md -->
-
-<h1 align="left">Hey there! 👋😄</h1>
+<h1 align="left">Hey there ✦</h1>
 
 ---
 
-### 💬 About Me:
-I’m Mehul Verma, a software developer with a passion for building practical, user-focused solutions. I’ve delivered real features in production, optimized app performance, and collaborated closely with cross-functional teams. 
-I thrive in environments where I can learn fast, take ownership, and write clean, maintainable code that solves real problems.
-I’m always up for building something new, improving what already exists, or diving into a challenge that makes me think harder. Let’s build something meaningful.
+### 💬 About Me
 
-<!--
-- 🔭 Currently working on: Invoice generator app & AI agent experiments  
-- 🌱 Currently learning: React ecosystem, Node.js, and backend integration  
-- 💡 Interests: Automations, clean UI, productivity hacks  
-- 🎯 Goal: Build portfolio-worthy apps & contribute to open source  
+I'm **Mehul Verma**, a **Full-Stack Developer** who builds and ships production mobile apps end-to-end. I've independently designed, built, and deployed three production apps — including **JelloChat (500k+ downloads)** and **Cheliya (10k+ downloads)** — owning the architecture across frontend, backend, DevOps, analytics, and monetization.
+
+I work across the stack: React Native and React on the frontend, Node.js and Express on the backend, with Docker, CapRover, Coolify, and Vercel handling deployment. I focus on real-time systems, AI/LLM integrations, and products that scale.
 
 ---
--->
-<!--
-### ⚡ Challenges I’m Taking On:
-- 🧠 Deep diving into full-stack projects
-- 🏋️‍♂️ Coding 6 days a week
-- 🚫 Reducing time on YouTube & Instagram
-- 🧘‍♂️ Practicing minimalist productivity
--->
+
+### 🚀 Currently shipping
+
+- ✦ Real-time anonymous chat (JelloChat — 500k+ DLs)
+- ✦ AI persona chat with streaming LLMs (Cheliya — 10k+ DLs)
+- ✦ AI-driven WhatsApp chat analysis (LemonLove)
+- ✦ Internal scraping / influencer-data tooling
+
 ---
 
-### 🌐 Socials:
+### 🌐 Find me
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFD400?style=flat-square&logo=vercel&logoColor=black)](https://mehul-verma.vercel.app/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mehulvermaw@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-verma-b7a333246/)
-<!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://your-portfolio-link.com)  -->
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)]([https://leetcode.com/yourusername](https://leetcode.com/u/Mehul001/))  
-<!-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehul-verma-b7a333246/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Mehul001/)
 
 ---
 
-### 🧰 Tech Stack:
-<!-- Programming Languages -->
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### 🧰 Tech Stack
+
+**Languages**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-<!-- Frameworks & Platforms -->
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+**Frameworks & Platforms**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native%20(Expo)-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-
-<!-- Tools -->
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<!-- Libraries & APIs -->
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Riverpod](https://img.shields.io/badge/-Riverpod-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/-Firebase%20Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Shared Preferences](https://img.shields.io/badge/-Shared%20Preferences-02569B?style=flat-square&logo=flutter&logoColor=white)
-![http](https://img.shields.io/badge/-http-E44D26?style=flat-square&logo=postman&logoColor=white)
+**Mobile & Real-time**
 
-<!-- Databases -->
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![GetStream](https://img.shields.io/badge/-GetStream-005FFF?style=flat-square&logo=getstream&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/-RevenueCat-FF6B6B?style=flat-square&logoColor=white)
+![AdMob](https://img.shields.io/badge/-AdMob-4285F4?style=flat-square&logo=googleadmob&logoColor=white)
+
+**DevOps & Deployment**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![CapRover](https://img.shields.io/badge/-CapRover-085BD8?style=flat-square&logo=caprover&logoColor=white)
+![Coolify](https://img.shields.io/badge/-Coolify-6B5DD3?style=flat-square&logo=coolify&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Analytics & Monitoring**
+
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/-PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+
+**Databases & State**
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/-AsyncStorage-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
-### 👤 Me:
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://mehul-verma.vercel.app/) 
-<!--
-### 📊 GitHub Stats:
+### 📱 Featured Work
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+**Production apps**
 
----
+| App | Description | Stack | Link |
+|---|---|---|---|
+| ✦ **JelloChat** | Anonymous video & text chat · 500k+ downloads | React Native (Expo), Node.js, Express, GetStream, RevenueCat, MongoDB | [Play Store](https://play.google.com/store/apps/details?id=com.sociatools.strangerchatapp) |
+| ✦ **Cheliya** | AI persona chat app · 10k+ downloads | React Native (Expo), Firebase, LLM APIs, RevenueCat, AdMob | [Play Store](https://play.google.com/store/apps/details?id=com.sociatools.aichatsouth) |
+| ✦ **LemonLove** | AI-driven WhatsApp chat relationship analyzer | React Native, React.js, Node.js, LLM APIs | [Play Store](https://play.google.com/store/apps/details?id=com.relationcompapp) |
 
-### 🏆 GitHub Trophies:
+**Personal projects**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🚀 Top Projects:
-- 💼 [Invoice Generator (React + Node)](https://github.com/yourusername/invoice-app)
-- 📱 [AI PDF Assistant](https://github.com/yourusername/ai-pdf-agent)
-- 🗂️ [Portfolio Website](https://github.com/yourusername/portfolio)
+- ✦ **[Portfolio](https://mehul-verma.vercel.app/)** — Vite + React 19 + Tailwind 4 + Framer Motion · dark + yellow editorial design — [source](https://github.com/MehulVerma17/my-portfolio)
+- ✦ **Invoice Generator** — React + Tailwind frontend + Express PDF backend, dynamic currency & logo upload
+- ✦ **Sentiment Analysis** — Flask app that scrapes YouTube comments + visualizes sentiment with VADER and Chart.js
 
 ---
 
-### 💬 Random Dev Quote:
-> _"A new idea comes suddenly and in a rather intuitive way. But intuition is nothing but the outcome of earlier intellectual experience."_  
-> — **Albert Einstein**
+### 📊 GitHub Stats
+
+![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehulVerma17&show_icons=true&bg_color=0A0A0F&title_color=FFD400&icon_color=FFD400&text_color=F5F5F7&border_color=1F1F2E&hide_border=false)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehulVerma17&layout=compact&bg_color=0A0A0F&title_color=FFD400&text_color=F5F5F7&border_color=1F1F2E&hide_border=false)
 
 ---
--->
-<p align="center">Thanks for visiting 🚀✨</p>
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MehulVerma17&theme=onedark&row=1&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<p align="center">Thanks for stopping by ✦</p>
