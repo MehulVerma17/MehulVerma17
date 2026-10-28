@@ -84,7 +84,7 @@ I work across the stack: React Native and React on the frontend, Node.js and Exp
 
 | App | Description | Stack | Link |
 |---|---|---|---|
-| ✦ **JelloChat** | Anonymous video & text chat · 500k+ downloads | React Native (Expo), Node.js, Express, GetStream, RevenueCat, MongoDB | [Play Store](https://play.google.com/store/apps/details?id=com.sociatools.strangerchatapp) |
+| ✦ **JelloChat** | Anonymous video & text chat · 1M+ downloads | React Native (Expo), Node.js, Express, GetStream, RevenueCat, MongoDB | [Play Store](https://play.google.com/store/apps/details?id=com.sociatools.strangerchatapp) |
 | ✦ **Cheliya** | AI persona chat app · 10k+ downloads | React Native (Expo), Firebase, LLM APIs, RevenueCat, AdMob | [Play Store](https://play.google.com/store/apps/details?id=com.sociatools.aichatsouth) |
 | ✦ **LemonLove** | AI-driven WhatsApp chat relationship analyzer | React Native, React.js, Node.js, LLM APIs | [Play Store](https://play.google.com/store/apps/details?id=com.relationcompapp) |
 
